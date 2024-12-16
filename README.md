@@ -2,7 +2,7 @@
 
 This project calculates the duration of life based on user input and displays it in a meaningful way.
 
-![Life Duration Project Screenshot](https://via.placeholder.com/800x400)  
+![Life Duration Project Screenshot]([https://via.placeholder.com/800x400](https://github.com/ammar100100/life-duration/blob/main/Macbook-Air-life-duration.netlify.app.png))  
 *Screenshot of the project in action.*
 
 ## Files Included:
