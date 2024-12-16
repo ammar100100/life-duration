@@ -16,8 +16,8 @@ This project calculates the duration of life based on user input and displays it
 - Open the `index.html` file in your browser.
 
 ## Live Demo:
-[Check out the project here!]([https://example.com](https://life-duration.netlify.app/))  
-*(Replace the link with your live website URL.)*
+[Check out the project here!](https://life-duration.netlify.app/)
+
 
 ## Contributing:
 Feel free to fork the repository, make changes, and submit pull requests.
