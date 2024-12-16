@@ -2,6 +2,9 @@
 
 This project calculates the duration of life based on user input and displays it in a meaningful way.
 
+![Life Duration Project Screenshot](https://via.placeholder.com/800x400)  
+*Screenshot of the project in action.*
+
 ## Files Included:
 - `index.html`: The main HTML file.
 - `style.css`: The styles for the page.
@@ -11,6 +14,10 @@ This project calculates the duration of life based on user input and displays it
 ## How to Use:
 - Download or clone the repository.
 - Open the `index.html` file in your browser.
+
+## Live Demo:
+[Check out the project here!](https://example.com)  
+*(Replace the link with your live website URL.)*
 
 ## Contributing:
 Feel free to fork the repository, make changes, and submit pull requests.
